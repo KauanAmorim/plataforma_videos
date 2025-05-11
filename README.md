@@ -5,7 +5,7 @@ Limitação: Desenvolver tudo em Java puro.
 
 ## Tarefas:
 
-- [ ] Subir banco de dados por conteiner;
+- [x] Subir banco de dados por conteiner;
 - [ ] Criar requisição que liste todos os videos;
 - [ ] Criar requisição que liste um vídeo;
 - [ ] Criar requisição que para criar um novo vídeo;
